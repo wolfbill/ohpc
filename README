@@ -1,4 +1,9 @@
 
+The files contained within this repository are used to build PBS Pro
+as a component of OpenHPC under OBS.
+
+==============
+
 These instructions describe how to build PBS from source using rpmbuild
 under CentOS 7.
 
