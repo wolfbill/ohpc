@@ -100,6 +100,8 @@ BuildRequires: libopenssl-devel
 BuildRequires: libXext-devel
 BuildRequires: libXft-devel
 BuildRequires: fontconfig
+BuildRequires: timezone
+BuildRequires: python-xml
 # FIXME: The SuSE post build checks should not be ignored
 BuildRequires: -post-build-checks
 %else
